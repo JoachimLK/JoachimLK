@@ -1,5 +1,12 @@
-### Hi there 👋
-
+### Interests
+- Programming
+- Artificial Intelligence
+### Experience
+- Beginner level coding
+- Intermediate SEO Experience
+- Some game dev knowledge
+### Social Media
+- Twitter - https://twitter.com/KolleJoachim
 <!--
 **JoachimLK/JoachimLK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
