@@ -1,4 +1,4 @@
-Owner of a blog called <a href="https://techzotron.com">www.techzotron.com</a> where I cover topics from **tech news, AI, softwares, gandgets & much more**
+Owner of <a href="https://techzotron.com">www.techzotron.com</a> a blog where I cover topics from **tech news, AI, softwares, gandgets & much more**
 
 ### Interests
 - Programming
@@ -12,7 +12,14 @@ Owner of a blog called <a href="https://techzotron.com">www.techzotron.com</a> w
 - Some game dev knowledge
 - Know the lates new in tech
 ### Social Media
-- Twitter - https://twitter.com/KolleJoachim
+- <a href="https://twitter.com/KolleJoachim">Twitter</a>
+- <a href="https://www.facebook.com/kollejoachim/">Facebook</a>
+- <a href="https://www.linkedin.com/in/kollejoachim/">LinkedIn</a>
+- <a href="https://www.instagram.com/joachim_turn/">Instagram</a>
+- <a href="https://www.reddit.com/user/Joachim_Kolle">Reddit</a>
+- <a href="https://www.youtube.com/channel/UCY_hpEg4L2Vz6lLFVkE0JDQ">Youtube</a>
+
+
 <!--
 **JoachimLK/JoachimLK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
