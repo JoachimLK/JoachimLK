@@ -1,4 +1,3 @@
-Owner of <a href="https://techzotron.com">www.techzotron.com</a> a blog where I cover topics from **tech news, AI, softwares, gandgets & much more**
 
 ### Interests
 - Programming
